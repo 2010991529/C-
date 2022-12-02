@@ -1,5 +1,5 @@
 import java.util.*;
-
+// A java code of binary Search
 public class binarySearch {
     public static void main(String args[]){
         //Scanner s = new Scanner(System.in);
