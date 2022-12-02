@@ -39,6 +39,7 @@ public class mergeTwoSortedArrays {
         //int arr3[];
         int[] arr3 =merge(arr1,arr2);
        for(int i=0;i<arr3.length;i++){
+        //output
         System.out.print(arr3[i] + " ");
        }
     }
