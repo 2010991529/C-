@@ -45,7 +45,7 @@ public class zigzagLL {
 		push(2);
 		push(6);
 		push(8);
-		push(7);
+		push(9);
 		push(3);
 		push(4);
 		System.out.println("Given linked list ");
